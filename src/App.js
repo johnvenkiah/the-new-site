@@ -22,7 +22,7 @@ function App() {
           rel="noreferrer"
           className='App-link'
         >
-          POO IN YOUR FACE
+          johnvenkiah.com
         </a>
       </header>
     </div>
